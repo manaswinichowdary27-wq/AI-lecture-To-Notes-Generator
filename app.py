@@ -4,7 +4,7 @@ import re
 import streamlit as st
 from dotenv import load_dotenv
 
-# Optional libraries
+# Optional librariesp
 try:
     import speech_recognition as sr
 except ImportError:
